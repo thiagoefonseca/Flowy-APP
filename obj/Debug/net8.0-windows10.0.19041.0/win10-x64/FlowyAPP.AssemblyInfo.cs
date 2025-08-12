@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlowyAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a4b6dd2792cac9347b8731de9ebd1785f3374e22")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlowyAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlowyAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
