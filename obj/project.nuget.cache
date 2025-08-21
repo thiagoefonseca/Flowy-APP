@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2+nPWl00Kg0=",
+  "dgSpecHash": "rkzpESVF0kk=",
   "success": true,
-  "projectFilePath": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\FlowyAPP.csproj",
+  "projectFilePath": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\FlowyAPP.csproj",
   "expectedPackageFiles": [
     "D:\\NugetPackages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "D:\\NugetPackages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",

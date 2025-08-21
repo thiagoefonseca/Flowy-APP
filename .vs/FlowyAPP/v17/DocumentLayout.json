@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\",
+  "WorkspaceRootPath": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowyapp\\models\\perfilmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowy-app\\models\\perfilmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|solutionrelative:models\\perfilmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowyapp\\viewmodels\\perfilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|solutionrelative:viewmodels\\perfilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowyapp\\views\\perfilview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowy-app\\views\\perfilview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|solutionrelative:views\\perfilview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowyapp\\views\\perfilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowy-app\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowy-app\\viewmodels\\perfilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|solutionrelative:viewmodels\\perfilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowy-app\\views\\perfilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|solutionrelative:views\\perfilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowyapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowy-app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowyapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|d:\\thiago 3ds\\flowyapp\\flowyapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CF085A15-1D80-4BBE-AD68-EFC241FDA44B}|FlowyAPP.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PerfilModel.cs",
-              "DocumentMoniker": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\Models\\PerfilModel.cs",
+              "DocumentMoniker": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\Models\\PerfilModel.cs",
               "RelativeDocumentMoniker": "Models\\PerfilModel.cs",
-              "ToolTip": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\Models\\PerfilModel.cs",
+              "ToolTip": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\Models\\PerfilModel.cs",
               "RelativeToolTip": "Models\\PerfilModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +55,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PerfilView.xaml.cs",
-              "DocumentMoniker": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\Views\\PerfilView.xaml.cs",
+              "DocumentMoniker": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\Views\\PerfilView.xaml.cs",
               "RelativeDocumentMoniker": "Views\\PerfilView.xaml.cs",
-              "ToolTip": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\Views\\PerfilView.xaml.cs",
+              "ToolTip": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\Views\\PerfilView.xaml.cs",
               "RelativeToolTip": "Views\\PerfilView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,50 +68,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PerfilView.xaml",
-              "DocumentMoniker": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\Views\\PerfilView.xaml",
+              "DocumentMoniker": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\Views\\PerfilView.xaml",
               "RelativeDocumentMoniker": "Views\\PerfilView.xaml",
-              "ToolTip": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\Views\\PerfilView.xaml",
+              "ToolTip": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\Views\\PerfilView.xaml",
               "RelativeToolTip": "Views\\PerfilView.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-11T23:13:27.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T23:13:27.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PerfilViewModel.cs",
-              "DocumentMoniker": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\ViewModels\\PerfilViewModel.cs",
+              "DocumentMoniker": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\ViewModels\\PerfilViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\PerfilViewModel.cs",
-              "ToolTip": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\ViewModels\\PerfilViewModel.cs",
+              "ToolTip": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\ViewModels\\PerfilViewModel.cs",
               "RelativeToolTip": "ViewModels\\PerfilViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T23:10:55.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T23:10:55.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\MainPage.xaml.cs",
-              "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T22:39:43.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\AppShell.xaml",
+              "DocumentMoniker": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\AppShell.xaml",
+              "ToolTip": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\AppShell.xaml",
               "RelativeToolTip": "AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -120,20 +105,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\App.xaml",
+              "DocumentMoniker": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\App.xaml",
+              "ToolTip": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-11T22:34:56.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-08-11T22:34:56.229Z"
             }
           ]
         }

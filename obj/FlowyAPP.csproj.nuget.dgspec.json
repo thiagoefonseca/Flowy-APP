@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\FlowyAPP.csproj": {}
+    "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\FlowyAPP.csproj": {}
   },
   "projects": {
-    "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\FlowyAPP.csproj": {
+    "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\FlowyAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\FlowyAPP.csproj",
+        "projectUniqueName": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\FlowyAPP.csproj",
         "projectName": "FlowyAPP",
-        "projectPath": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\FlowyAPP.csproj",
+        "projectPath": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\FlowyAPP.csproj",
         "packagesPath": "D:\\NugetPackages",
-        "outputPath": "D:\\Thiago 3DS\\FlowyAPP\\FlowyAPP\\obj\\",
+        "outputPath": "D:\\thiago 3ds\\FlowyAPP\\Flowy-APP\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
